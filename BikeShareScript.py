@@ -8,7 +8,6 @@ Created on Fri Nov 16 13:14:49 2018
 
 import time
 import pandas as pd
-import numpy as np
 import json
 
 from input_util import get_user_input
