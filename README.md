@@ -8,7 +8,9 @@ Bostjan's Bikeshare project
 
 ### Description
 ### Describe what your project is about and what it does
-Based on initial user input, the script parses the data and provides some bike sharing statistics for 3 major US cities.
+Based on initial user input, the script parses the data and provides 
+bike sharing statistics for 3 major US cities, namely Chicago,
+New York City and Washington.
 
 ### Files used
 ### Include the files used
@@ -18,7 +20,8 @@ README.md
 .gitignore
 
 ### Credits
-### It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### It's important to give proper credit. Add links to any repo that
+### inspired you or blogposts you consulted.
 
 https://udacity.github.io/git-styleguide/
 https://github.com/erlang/otp/wiki/writing-good-commit-messages
