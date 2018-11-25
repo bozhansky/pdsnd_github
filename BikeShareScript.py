@@ -8,7 +8,6 @@ Created on Fri Nov 16 13:14:49 2018
 
 import time
 import pandas as pd
-import numpy as np
 import json
 
 from input_util import get_user_input
@@ -17,7 +16,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'new york': 'new_york_city.csv',
              'washington': 'washington.csv'}
 
-CITIES = ['chicago', 'new york', 'washington']
+CITIES = CITY_DATA.keys()
 CityErrorMessage = "Please enter a correct city name."
 
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
