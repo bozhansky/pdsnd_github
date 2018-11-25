@@ -16,7 +16,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'new york': 'new_york_city.csv',
              'washington': 'washington.csv'}
 
-CITIES = ['chicago', 'new york', 'washington']
+CITIES = CITY_DATA.keys()
 CityErrorMessage = "Please enter a correct city name."
 
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
